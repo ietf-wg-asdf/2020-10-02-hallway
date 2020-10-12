@@ -1,7 +1,3 @@
-# 2020-10-02-hallway
-
-"Hallway" meeting of ASDF WG in progress
-
 # 2020-10-12 planned ASDF "hallway meeting"
 
 We hope to have the ASDF WG established by early October 2020. At that point,
